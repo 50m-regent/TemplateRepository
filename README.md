@@ -20,6 +20,7 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 ## Authors
 - **50m_regent** - _Initial Work_
+
 See also the list of contributors who participated in this project.
 
 ## License
